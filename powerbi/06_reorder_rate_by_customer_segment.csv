@@ -1,0 +1,4 @@
+segment,total_line_items,reorder_count,reorder_rate_pct
+Frequent (20+ orders),20560475,14079896,68.48
+Infrequent (1-4 orders),687274,140506,20.44
+Regular (5-19 orders),11186740,4906134,43.86
